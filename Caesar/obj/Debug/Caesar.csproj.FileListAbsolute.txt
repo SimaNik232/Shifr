@@ -1,0 +1,9 @@
+C:\Users\Nik.sima123456\source\repos\Caesar's cipher\Caesar\obj\Debug\Caesar.csproj.GenerateResource.cache
+C:\Users\Nik.sima123456\source\repos\Caesar's cipher\Caesar\obj\Debug\Caesar.csproj.CoreCompileInputs.cache
+C:\Users\Nik.sima123456\source\repos\Caesar's cipher\Caesar\bin\Debug\Caesar.exe.config
+C:\Users\Nik.sima123456\source\repos\Caesar's cipher\Caesar\bin\Debug\Caesar.exe
+C:\Users\Nik.sima123456\source\repos\Caesar's cipher\Caesar\bin\Debug\Caesar.pdb
+C:\Users\Nik.sima123456\source\repos\Caesar's cipher\Caesar\obj\Debug\Caesar.Form1.resources
+C:\Users\Nik.sima123456\source\repos\Caesar's cipher\Caesar\obj\Debug\Caesar.Properties.Resources.resources
+C:\Users\Nik.sima123456\source\repos\Caesar's cipher\Caesar\obj\Debug\Caesar.exe
+C:\Users\Nik.sima123456\source\repos\Caesar's cipher\Caesar\obj\Debug\Caesar.pdb
